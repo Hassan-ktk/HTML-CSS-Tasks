@@ -1,0 +1,42 @@
+.column
+{
+    flex:1;
+    padding: 15px;
+    margin: 10px;
+    background-color:aquamarine;
+    height: 250px;
+    border-radius: 1rem;
+}
+
+.container
+{
+    display: flex;
+    
+}
+h3{
+    background-color: antiquewhite;
+    border-radius: 1rem;
+    text-align: center;
+}
+i{
+    font-size: 40px;
+    padding-right:15px ;
+}
+button{
+    border-radius: 10px;  
+    width: 100px; 
+}
+button:hover{
+    cursor: pointer;
+}
+input{
+    height: 20px;
+    width: 200px;
+}
+#ab{
+    font-size: small;
+}
+#bc{
+    font-size:10px;
+    padding: 5px ;
+}
